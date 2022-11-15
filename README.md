@@ -14,6 +14,6 @@
 ### 使用方法
 1. 通过抓包获取自己的laravel_session
 2. 下载本项目，并在index.py中填入自己的laravel_session
-3. 部署到腾讯云SCF（云函数）
+3. 部署到腾讯云SCF（云函数）并pip安装request
 4. 设置定时触发器
 5. enjoy~
